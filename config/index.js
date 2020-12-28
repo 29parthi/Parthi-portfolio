@@ -54,21 +54,20 @@ module.exports = {
   socialMedia: [
     {
       name: "Linkedin",
-      url: "https://www.linkedin.com/in/konstantin-muenster/",
+      url: "https://www.linkedin.com/in/parthiban-sundaramurthy-38092948/",
     },
     {
       name: "Medium",
-      url: "https://konstantinmuenster.medium.com/",
+      url: "https://medium.com/@29parthiban",
     },
     {
       name: "Github",
-      url:
-        "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
+      url: "https://github.com/29parthi",
     },
-    {
+    /*{
       name: "Behance",
       url: "https://www.behance.net/konstanmnster",
-    },
+    },*/
   ],
 
   //-- NAVIGATION SETTINGS -----
@@ -83,7 +82,7 @@ module.exports = {
         url: "/#about",
       },
       {
-        name: "Features",
+        name: "Projects",
         url: "/#projects",
       },
     ],
